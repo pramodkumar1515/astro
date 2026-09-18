@@ -1,0 +1,1 @@
+export default function Page(){return <main className="section" style={{"minHeight":"75vh","paddingTop":"150px"}}><div className="shell"><div className="eyebrow">Divya Akash</div><h2>आचार्य जी से संपर्क</h2><p className="muted">नीचे दाएँ संवाद बटन से अपनी enquiry शुरू करें। सत्यापित WhatsApp नंबर environment variable में जोड़ने पर handoff सक्रिय होगा।</p></div></main>}

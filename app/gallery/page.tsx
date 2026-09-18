@@ -1,0 +1,1 @@
+export default function Page(){return <main className="section" style={{"minHeight":"75vh","paddingTop":"150px"}}><div className="shell"><div className="eyebrow">Divya Akash</div><h2>कथा के कुछ दिव्य क्षण</h2><p className="muted">केवल सत्यापित, पेशेवर और उपयोग-अधिकार वाली तस्वीरें यहाँ दिखाई जाएँगी।</p></div></main>}

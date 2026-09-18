@@ -1,0 +1,1 @@
+export default function Page(){return <main className="section" style={{"minHeight":"75vh","paddingTop":"150px"}}><div className="shell"><div className="eyebrow">Divya Akash</div><h2>कथा एवं प्रवचन</h2><p className="muted">सत्यापित Facebook/YouTube वीडियो स्रोत उपलब्ध होने पर यहाँ जोड़े जाएँगे।</p></div></main>}

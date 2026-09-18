@@ -1,0 +1,1 @@
+export const social = [{name:"Facebook", url:"https://www.facebook.com/acharya.abhishek.mishra"}];

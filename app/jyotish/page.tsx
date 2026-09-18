@@ -1,0 +1,1 @@
+export default function Page(){return <main className="section" style={{"minHeight":"75vh","paddingTop":"150px"}}><div className="shell"><div className="eyebrow">Divya Akash</div><h2>ज्योतिष — समय को समझने की वैदिक दृष्टि</h2><p className="muted">सत्यापित ज्योतिष सेवाएँ यहाँ प्रदर्शित होंगी। कोई गारंटीड परिणाम या चमत्कारी दावा नहीं किया जाता।</p></div></main>}

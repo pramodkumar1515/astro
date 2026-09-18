@@ -1,0 +1,1 @@
+export default function Page(){return <main className="section" style={{"minHeight":"75vh","paddingTop":"150px"}}><div className="shell"><div className="eyebrow">Divya Akash</div><h2>संपर्क</h2><p className="muted">Facebook प्राथमिक सत्यापित संपर्क चैनल है। अन्य पेशेवर संपर्क विवरण सत्यापन के बाद जोड़े जाएँगे।</p></div></main>}

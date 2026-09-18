@@ -1,0 +1,1 @@
+export default function Page(){return <main className="section" style={{"minHeight":"75vh","paddingTop":"150px"}}><div className="shell"><div className="eyebrow">Divya Akash</div><h2>गोपनीयता</h2><p className="muted">परामर्श हेतु साझा जानकारी केवल enquiry तैयार करने के उद्देश्य से उपयोग की जानी चाहिए।</p></div></main>}

@@ -1,0 +1,1 @@
+export default function Page(){return <main className="section" style={{"minHeight":"75vh","paddingTop":"150px"}}><div className="shell"><div className="eyebrow">Divya Akash</div><h2>कथा</h2><p className="muted">सत्यापित कथा श्रेणियाँ और वास्तविक आयोजन यहाँ प्रदर्शित होंगे।</p></div></main>}

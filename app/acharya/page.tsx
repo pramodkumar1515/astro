@@ -1,0 +1,1 @@
+export default function Page(){return <main className="section" style={{"minHeight":"75vh","paddingTop":"150px"}}><div className="shell"><div className="eyebrow">Divya Akash</div><h2>आचार्य अभिषेक मिश्रा</h2><p className="muted">सत्यापित जीवनी और पेशेवर यात्रा प्राथमिक Facebook स्रोत की समीक्षा के बाद प्रकाशित होगी।</p></div></main>}
